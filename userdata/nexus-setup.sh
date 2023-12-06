@@ -1,3 +1,6 @@
+choose centose-7--size=t2 medium,sg for ssh=22,nexus=8081 one more create sg and add sg for jenkins to communicate to nexus, go to advances and copy the entire code below and paste it create it
+=======================================================================================================================================================================================================
+
 #!/bin/bash
 yum install java-1.8.0-openjdk.x86_64 wget -y   
 mkdir -p /opt/nexus/   
